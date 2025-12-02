@@ -1,4 +1,4 @@
-# pavani.python
+# pavani.html
 <!doctype html>
 <html>
 <head>
